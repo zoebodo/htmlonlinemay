@@ -1,0 +1,11 @@
+label{
+    color: purple;
+    font-family: Arial;
+    margin: 5px;
+}
+input{
+    border: solid rebeccapurple;
+    margin: 5px;
+    font-family: Arial;
+
+}

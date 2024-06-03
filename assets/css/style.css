@@ -1,0 +1,44 @@
+.fruits{
+    border: 2px solid mediumpurple;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: darkslateblue;
+    font-family: "Bookman Old Style";
+
+}
+.cars{
+    border: 2px solid cornflowerblue;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: dodgerblue;
+    font-family: Castellar;
+}
+.Fruits{
+    border: 2px solid hotpink;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: palevioletred;
+    font-family: "Lucida Bright";
+
+}
+#schools{
+    color: green;
+    text-align: center;
+    font-family: DialogInput;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid forestgreen;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border: solid 2px slategrey;
+    padding: 15px;
+    margin: 15px;
+    font-family: "Copperplate Gothic Bold"  ;
+}
